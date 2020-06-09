@@ -1,12 +1,22 @@
-# Worklog
-每天工作完成内容及后一天的工作计划。
+Worklog
+======
 
-此文件参照[Keep a Changelog](https://keepachangelog.com/en/1.0.0/)这个Changelog项目的格式规范，经修改演变后制作为我自己工作Worklog的规范。
+Todo list
+------
+
+> - 碳排放
+> - 消耗定额
 
 ## 2020-06-09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;星期二&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阴
 
 ### Done
 - 现场安全巡查
+- 外出办公，到老纳米交5月份原料单据，加油、清洁工资报账单据
+- 粘贴4月石料单据100张
+- 项目竣工环境监测合同用印流程
+
+### Doing
+- 二季度员工思想动态报告
 
 ## 2020-06-08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;星期一&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多云
 
